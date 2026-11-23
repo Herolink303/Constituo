@@ -1,0 +1,16 @@
+{
+  "name": "Constituo",
+  "short_name": "Constituo",
+  "description": "Constituições e códigos fictícios",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f9fb",
+  "theme_color": "#1e3a5f",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
